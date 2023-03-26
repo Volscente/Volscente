@@ -66,9 +66,6 @@
 <img src="https://img.shields.io/badge/Red_Hat_Open_Shift-EE0000?&style=flat&logo=redhatopenshift&logoColor=white" height="22" />
 <img src="https://img.shields.io/badge/Databricks-FF3621?&style=flat&logo=databricks&logoColor=white" height="22" />
 <img src="https://img.shields.io/badge/Linux-FCC624?&style=flat&logo=linux&logoColor=white" height="22" />
-<img src="https://img.shields.io/badge/macOS-000000?&style=flat&logo=macos&logoColor=white" height="22" />
-<img src="https://img.shields.io/badge/Ubuntu-E95420?&style=flat&logo=ubuntu&logoColor=white" height="22" />
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?&style=flat&logo=kalilinux&logoColor=white" height="22" />
  
 
 <h2>IDEs</h2>
