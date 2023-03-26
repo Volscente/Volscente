@@ -62,9 +62,7 @@
   
   
 <h2>Software</h2>
-<img src="https://img.shields.io/badge/Elasticsearch-005571?&style=flat&logo=elasticsearch&logoColor=white" height="22" />
-<img src="https://img.shields.io/badge/Kibana-005571?&style=flat&logo=kibana&logoColor=white" height="22" />  
-<img src="https://img.shields.io/badge/Logstash-005571?&style=flat&logo=logstash&logoColor=white" height="22" />
+<img src="https://img.shields.io/badge/Elastic_Suite-005571?&style=flat&logo=elastic&logoColor=white" height="22" />
 <img src="https://img.shields.io/badge/Red_Hat_Open_Shift-EE0000?&style=flat&logo=redhatopenshift&logoColor=white" height="22" />
 <img src="https://img.shields.io/badge/Databricks-FF3621?&style=flat&logo=databricks&logoColor=white" height="22" />
 <img src="https://img.shields.io/badge/Linux-FCC624?&style=flat&logo=linux&logoColor=white" height="22" />
