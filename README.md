@@ -6,6 +6,7 @@
 <img src="https://img.shields.io/badge/PostgreSQL-3598de?&style=flat&logo=postgresql&logoColor=white" height="22" />
 <img src="https://img.shields.io/badge/Shell_Scripting-000000?&style=flat&logo=gnu-bash&logoColor=white" height="22" />
   
+  
 <h2>Machine Learning Frameworks</h2>
 <img src="https://img.shields.io/badge/PyTorch-ce2422?&style=flat&logo=pytorch&logoColor=white" height="22" />
 <img src="https://img.shields.io/badge/TensorFlow-e18247?&style=flat&logo=tensorflow&logoColor=white" height="22" />
@@ -19,6 +20,7 @@
 <img src="https://img.shields.io/badge/Tesseract-0dd4f2?&style=flat" height="22" />
 <img src="https://img.shields.io/badge/OpenCV_EAST-0df20d?&style=flat&logo=opencv&logoColor=white" height="22" />
 
+  
 <h2>Python Libraries</h2>
 <img src="https://img.shields.io/badge/Pandas-0d5df2?&style=flat&logo=pandas&logoColor=white" height="22" />
 <img src="https://img.shields.io/badge/Numpy-149921?&style=flat&logo=numpy&logoColor=white" height="22" />
@@ -40,10 +42,12 @@
 <img src="https://img.shields.io/badge/SpaCy-d40808?&style=flat&logo=spacy&logoColor=white" height="22" />
 <img src="https://img.shields.io/badge/Rake-8a0588?&style=flat" height="22" />
   
+  
 <h2>Containerisation</h2>
 <img src="https://img.shields.io/badge/Docker-2496ED?&style=flat&logo=docker&logoColor=white" height="22" />
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?&style=flat&logo=kubernetes&logoColor=white" height="22" />
 <img src="https://img.shields.io/badge/Terraform-7B42BC?&style=flat&logo=terraform&logoColor=white" height="22" />
+  
   
 <h2>Cloud</h2>
 <img src="https://img.shields.io/badge/Google_Cloud_Platform-Vertex_AI_|_BigQuery_|_Cloud_Storage_|_DataFlow_|_Pub/Sub_|_GKE_|_Cloud_Run_|_DataStudio-4285F4?&style=flat&logo=googlecloud&logoColor=white" height="22" />
@@ -55,6 +59,7 @@
   <br>
   
 <img src="https://img.shields.io/badge/Azure-Data_Factory_|_Machine_Learning_|_Blob_Storage_|_VMs-0078D4?&style=flat&logo=googlecloud&logoColor=white" height="22" />
+  
   
 <h2>Software</h2>
 <img src="https://img.shields.io/badge/Elasticsearch-005571?&style=flat&logo=elasticsearch&logoColor=white" height="22" />
@@ -69,13 +74,18 @@
  
 
 <h2>IDEs</h2>
-<img src="https://img.shields.io/badge/PyCharm-557C94?&style=flat&logo=kalilinux&logoColor=white" height="22" />
-  <img src="https://img.shields.io/badge/Colab-557C94?&style=flat&logo=kalilinux&logoColor=white" height="22" />
-<img src="https://img.shields.io/badge/PyCharm-557C94?&style=flat&logo=kalilinux&logoColor=white" height="22" />
-<img src="https://img.shields.io/badge/PyCharm-557C94?&style=flat&logo=kalilinux&logoColor=white" height="22" />
-<img src="https://img.shields.io/badge/PyCharm-557C94?&style=flat&logo=kalilinux&logoColor=white" height="22" />
-<img src="https://img.shields.io/badge/PyCharm-557C94?&style=flat&logo=kalilinux&logoColor=white" height="22" />
+<img src="https://img.shields.io/badge/PyCharm-000000?&style=flat&logo=pycharm&logoColor=white" height="22" />
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?&style=flat&logo=googlecolab&logoColor=white" height="22" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?&style=flat&logo=visualstudiocode&logoColor=white" height="22" />
+<img src="https://img.shields.io/badge/Jupyter_Lab-F37626?&style=flat&logo=jupyter&logoColor=white" height="22" />
+<img src="https://img.shields.io/badge/Eclipse-2C2255?&style=flat&logo=eclipse&logoColor=white" height="22" />
 
 
-  
 <h2>Tools for Collaborative Development</h2>
+<img src="https://img.shields.io/badge/Git-F05032?&style=flat&logo=git&logoColor=white" height="22" />
+<img src="https://img.shields.io/badge/GitHub-181717?&style=flat&logo=github&logoColor=white" height="22" />
+<img src="https://img.shields.io/badge/GitLab-FC6D26?&style=flat&logo=gitlab&logoColor=white" height="22" />
+<img src="https://img.shields.io/badge/Slack-4A154B?&style=flat&logo=slack&logoColor=white" height="22" />
+<img src="https://img.shields.io/badge/Jira-0052CC?&style=flat&logo=jira&logoColor=white" height="22" />
+<img src="https://img.shields.io/badge/Confluence-172B4D?&style=flat&logo=confluence&logoColor=white" height="22" />
+<img src="https://img.shields.io/badge/Trello-0052CC?&style=flat&logo=trello&logoColor=white" height="22" />
