@@ -28,13 +28,11 @@
 <img src="https://img.shields.io/badge/OpenCV-0df20d?&style=flat&logo=opencv&logoColor=white" height="30" />
 <img src="https://img.shields.io/badge/Pillow-b726e3?&style=flat" height="30" />
 <img src="https://img.shields.io/badge/SciPy-2652e3?&style=flat&logo=scipy&logoColor=white" height="30" />
-  
-<img src="https://img.shields.io/badge/Pandas-ce2422?&style=flat&logo=pandas&logoColor=white" height="30" />
-<img src="https://img.shields.io/badge/Pandas-ce2422?&style=flat&logo=pandas&logoColor=white" height="30" />
-<img src="https://img.shields.io/badge/Pandas-ce2422?&style=flat&logo=pandas&logoColor=white" height="30" />
-<img src="https://img.shields.io/badge/Pandas-ce2422?&style=flat&logo=pandas&logoColor=white" height="30" />
-<img src="https://img.shields.io/badge/Pandas-ce2422?&style=flat&logo=pandas&logoColor=white" height="30" />
-<img src="https://img.shields.io/badge/Pandas-ce2422?&style=flat&logo=pandas&logoColor=white" height="30" />
+<img src="https://img.shields.io/badge/PySpark-f9ea4e?&style=flat&logo=apachespark&logoColor=white" height="30" />
+<img src="https://img.shields.io/badge/NLTK-119405?&style=flat" height="30" />
+<img src="https://img.shields.io/badge/Gensim-dd08b6?&style=flat" height="30" />
+<img src="https://img.shields.io/badge/SpaCy-d40808?&style=flat&logo=spacy&logoColor=white" height="30" />
+<img src="https://img.shields.io/badge/Rake-8a0588?&style=flat" height="30" />
 
   
 <h2>Cloud</h2>
