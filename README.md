@@ -19,7 +19,22 @@
 <img src="https://img.shields.io/badge/Tesseract-0dd4f2?&style=flat" height="30" />
 <img src="https://img.shields.io/badge/OpenCV_EAST-0df20d?&style=flat&logo=opencv&logoColor=white" height="30" />
 
-  
 <h2>Python Libraries</h2>
+<img src="https://img.shields.io/badge/Pandas-0d5df2?&style=flat&logo=pandas&logoColor=white" height="30" />
+<img src="https://img.shields.io/badge/Numpy-149921?&style=flat&logo=numpy&logoColor=white" height="30" />
+<img src="https://img.shields.io/badge/Matplotlib-dd1d1d?&style=flat&logoColor=white" height="30" />
+<img src="https://img.shields.io/badge/Seaborn-1dc0dd?&style=flat" height="30" />
+<img src="https://img.shields.io/badge/Plotly-000000?&style=flat&logo=plotly&logoColor=white" height="30" />
+<img src="https://img.shields.io/badge/OpenCV-0df20d?&style=flat&logo=opencv&logoColor=white" height="30" />
+<img src="https://img.shields.io/badge/Pillow-b726e3?&style=flat" height="30" />
+<img src="https://img.shields.io/badge/SciPy-2652e3?&style=flat&logo=scipy&logoColor=white" height="30" />
+  
+<img src="https://img.shields.io/badge/Pandas-ce2422?&style=flat&logo=pandas&logoColor=white" height="30" />
+<img src="https://img.shields.io/badge/Pandas-ce2422?&style=flat&logo=pandas&logoColor=white" height="30" />
+<img src="https://img.shields.io/badge/Pandas-ce2422?&style=flat&logo=pandas&logoColor=white" height="30" />
+<img src="https://img.shields.io/badge/Pandas-ce2422?&style=flat&logo=pandas&logoColor=white" height="30" />
+<img src="https://img.shields.io/badge/Pandas-ce2422?&style=flat&logo=pandas&logoColor=white" height="30" />
+<img src="https://img.shields.io/badge/Pandas-ce2422?&style=flat&logo=pandas&logoColor=white" height="30" />
+
   
 <h2>Cloud</h2>
