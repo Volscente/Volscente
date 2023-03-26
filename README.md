@@ -30,6 +30,7 @@
 <img src="https://img.shields.io/badge/Pipenv-1871c3?&style=flat" height="22" />
 <img src="https://img.shields.io/badge/PyTest-18c32c?&style=flat&logo=pytest&logoColor=white" height="22" />
 <img src="https://img.shields.io/badge/FastAPI-009688?&style=flat&logo=fastapi&logoColor=white" height="22" />
+<img src="https://img.shields.io/badge/MLflow-0194E2?&style=flat&logo=mlflow&logoColor=white" height="22" />
 <img src="https://img.shields.io/badge/OpenCV-0df20d?&style=flat&logo=opencv&logoColor=white" height="22" />
 <img src="https://img.shields.io/badge/Pillow-b726e3?&style=flat" height="22" />
 <img src="https://img.shields.io/badge/SciPy-2652e3?&style=flat&logo=scipy&logoColor=white" height="22" />
@@ -40,13 +41,41 @@
 <img src="https://img.shields.io/badge/Rake-8a0588?&style=flat" height="22" />
   
 <h2>Containerisation</h2>
+<img src="https://img.shields.io/badge/Docker-2496ED?&style=flat&logo=docker&logoColor=white" height="22" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?&style=flat&logo=kubernetes&logoColor=white" height="22" />
+<img src="https://img.shields.io/badge/Terraform-7B42BC?&style=flat&logo=terraform&logoColor=white" height="22" />
   
 <h2>Cloud</h2>
-<img src="https://img.shields.io/badge/Google_Cloud_Platform-Vertex_AI_|_BigQuery_|_Cloud_Storage_|_DataFlow_|_Pub/Sub_|_GKE_|_Cloud_Run_|_DataStudio-2e4de5?&style=flat&logo=googlecloud&logoColor=white" height="22" />
-  
+<img src="https://img.shields.io/badge/Google_Cloud_Platform-Vertex_AI_|_BigQuery_|_Cloud_Storage_|_DataFlow_|_Pub/Sub_|_GKE_|_Cloud_Run_|_DataStudio-4285F4?&style=flat&logo=googlecloud&logoColor=white" height="22" />
 
-
+  <br>
   
+<img src="https://img.shields.io/badge/AWS-DynamoDB_|_EC2_|_RDS_|_S3_|_CloudFront_|_SageMaker_|_Lambda_|_Databricks-232F3E?&style=flat&logo=googlecloud&logoColor=white" height="22" />
+
+  <br>
+  
+<img src="https://img.shields.io/badge/Azure-Data_Factory_|_Machine_Learning_|_Blob_Storage_|_VMs-0078D4?&style=flat&logo=googlecloud&logoColor=white" height="22" />
+  
+<h2>Software</h2>
+<img src="https://img.shields.io/badge/Elasticsearch-005571?&style=flat&logo=elasticsearch&logoColor=white" height="22" />
+<img src="https://img.shields.io/badge/Kibana-005571?&style=flat&logo=kibana&logoColor=white" height="22" />  
+<img src="https://img.shields.io/badge/Logstash-005571?&style=flat&logo=logstash&logoColor=white" height="22" />
+<img src="https://img.shields.io/badge/Red_Hat_Open_Shift-EE0000?&style=flat&logo=redhatopenshift&logoColor=white" height="22" />
+<img src="https://img.shields.io/badge/Databricks-FF3621?&style=flat&logo=databricks&logoColor=white" height="22" />
+<img src="https://img.shields.io/badge/Linux-FCC624?&style=flat&logo=linux&logoColor=white" height="22" />
+<img src="https://img.shields.io/badge/macOS-000000?&style=flat&logo=macos&logoColor=white" height="22" />
+<img src="https://img.shields.io/badge/Ubuntu-E95420?&style=flat&logo=ubuntu&logoColor=white" height="22" />
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?&style=flat&logo=kalilinux&logoColor=white" height="22" />
+ 
+
 <h2>IDEs</h2>
+<img src="https://img.shields.io/badge/PyCharm-557C94?&style=flat&logo=kalilinux&logoColor=white" height="22" />
+  <img src="https://img.shields.io/badge/Colab-557C94?&style=flat&logo=kalilinux&logoColor=white" height="22" />
+<img src="https://img.shields.io/badge/PyCharm-557C94?&style=flat&logo=kalilinux&logoColor=white" height="22" />
+<img src="https://img.shields.io/badge/PyCharm-557C94?&style=flat&logo=kalilinux&logoColor=white" height="22" />
+<img src="https://img.shields.io/badge/PyCharm-557C94?&style=flat&logo=kalilinux&logoColor=white" height="22" />
+<img src="https://img.shields.io/badge/PyCharm-557C94?&style=flat&logo=kalilinux&logoColor=white" height="22" />
+
+
   
 <h2>Tools for Collaborative Development</h2>
