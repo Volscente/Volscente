@@ -78,3 +78,8 @@
 <img src="https://img.shields.io/badge/Jira-0052CC?&style=flat&logo=jira&logoColor=white" height="22" />
 <img src="https://img.shields.io/badge/Confluence-172B4D?&style=flat&logo=confluence&logoColor=white" height="22" />
 <img src="https://img.shields.io/badge/Trello-0052CC?&style=flat&logo=trello&logoColor=white" height="22" />
+  
+ <h2>My GitHub Stats</h2>
+
+  [![Volscente's GitHub stats](https://github-readme-stats.vercel.app/api?username=Volscente&show_icons=true&theme=dark&hide=contribs)](https://github.com/Volscente/github-readme-stats)
+
