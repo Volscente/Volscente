@@ -1,4 +1,7 @@
 <div align=center>
+
+<img src="./Banner.png" />
+
 <h2>Programming Languages</h2>
 <img src="https://img.shields.io/badge/Python-2a8e25?&style=flat&logo=Python&logoColor=white" height="22" />
 <img src="https://img.shields.io/badge/R-4469cf?&style=flat&logo=R&logoColor=white" height="22" />
