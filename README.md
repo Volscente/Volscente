@@ -1,6 +1,20 @@
 <div align=center>
 
 <img src="./Banner.png" />
+  
+### Hi there, I'm Simone Porreca 👋
+  
+I am a passionate Data Scientist with 6+ years of experience and I like to challenge my expertise against the data and find out what we can learn from them. That's what drives me to be always up-to-date with the state-of-the-art technologies through personal studies and projects.
+  
+<br>
+  
+**I'm open to**:
+  
+Collaborations on Open-Source Machine Learning projects
+  
+Speaker in conferences/Events
+  
+Kaggle's Challenges
 
 <h2>Programming Languages</h2>
 <img src="https://img.shields.io/badge/Python-2a8e25?&style=flat&logo=Python&logoColor=white" height="22" />
@@ -79,5 +93,12 @@
   
  <h2>My GitHub Stats</h2>
 
-  [![Volscente's GitHub stats](https://github-readme-stats.vercel.app/api?username=Volscente&show_icons=true&theme=dark&hide=contribs)](https://github.com/Volscente/github-readme-stats)
+[![Volscente's GitHub stats](https://github-readme-stats.vercel.app/api?username=Volscente&show_icons=true&theme=dark&hide=contribs)](https://github.com/Volscente/github-readme-stats)
+  
+ <h2>Contacts</h2>
+  
+[<img src="https://img.shields.io/badge/Kaggle-20BEFF.svg?&style=for-the-badge&logo=kaggle&logoColor=white" height="22" />](https://www.kaggle.com/porrecasimone)
+[<img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="22" />](https://www.linkedin.com/in/simone-porreca-15b594151/)
+  
+  
 
