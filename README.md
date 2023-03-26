@@ -54,11 +54,11 @@
 
   <br>
   
-<img src="https://img.shields.io/badge/AWS-DynamoDB_|_EC2_|_RDS_|_S3_|_CloudFront_|_SageMaker_|_Lambda_|_Databricks-232F3E?&style=flat&logo=googlecloud&logoColor=white" height="22" />
+<img src="https://img.shields.io/badge/AWS-DynamoDB_|_EC2_|_RDS_|_S3_|_CloudFront_|_SageMaker_|_Lambda_|_Databricks-232F3E?&style=flat&logo=amazonaws&logoColor=white" height="22" />
 
   <br>
   
-<img src="https://img.shields.io/badge/Azure-Data_Factory_|_Machine_Learning_|_Blob_Storage_|_VMs-0078D4?&style=flat&logo=googlecloud&logoColor=white" height="22" />
+<img src="https://img.shields.io/badge/Azure-Data_Factory_|_Machine_Learning_|_Blob_Storage_|_VMs-0078D4?&style=flat&logo=microsoftazure&logoColor=white" height="22" />
   
   
 <h2>Software</h2>
