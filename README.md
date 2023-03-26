@@ -70,10 +70,8 @@
 
 <h2>IDEs</h2>
 <img src="https://img.shields.io/badge/PyCharm-000000?&style=flat&logo=pycharm&logoColor=white" height="22" />
-<img src="https://img.shields.io/badge/Google_Colab-F9AB00?&style=flat&logo=googlecolab&logoColor=white" height="22" />
 <img src="https://img.shields.io/badge/VS_Code-007ACC?&style=flat&logo=visualstudiocode&logoColor=white" height="22" />
 <img src="https://img.shields.io/badge/Jupyter_Lab-F37626?&style=flat&logo=jupyter&logoColor=white" height="22" />
-<img src="https://img.shields.io/badge/Eclipse-2C2255?&style=flat&logo=eclipse&logoColor=white" height="22" />
 
 
 <h2>Tools for Collaborative Development</h2>
