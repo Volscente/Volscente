@@ -14,11 +14,9 @@
 <img src="https://img.shields.io/badge/XGBoost-cd18c4?&style=flat" height="22" />
 <img src="https://img.shields.io/badge/LightGBM-f5adf2?&style=flat" height="22" />
 <img src="https://img.shields.io/badge/ScikitLearn-3876e0?&style=flat&logo=scikitlearn&logoColor=white" height="22" />
-<img src="https://img.shields.io/badge/Hyperopt-19a31c?&style=flat" height="22" />
 <img src="https://img.shields.io/badge/YOLO-e4d725?&style=flat&logo=yolo&logoColor=white" height="22" />
 <img src="https://img.shields.io/badge/StanfordNLP-d50b0b?&style=flat" height="22" />
 <img src="https://img.shields.io/badge/Tesseract-0dd4f2?&style=flat" height="22" />
-<img src="https://img.shields.io/badge/OpenCV_EAST-0df20d?&style=flat&logo=opencv&logoColor=white" height="22" />
 
   
 <h2>Python Libraries</h2>
@@ -37,10 +35,8 @@
 <img src="https://img.shields.io/badge/Pillow-b726e3?&style=flat" height="22" />
 <img src="https://img.shields.io/badge/SciPy-2652e3?&style=flat&logo=scipy&logoColor=white" height="22" />
 <img src="https://img.shields.io/badge/PySpark-f9ea4e?&style=flat&logo=apachespark&logoColor=white" height="22" />
-<img src="https://img.shields.io/badge/NLTK-119405?&style=flat" height="22" />
 <img src="https://img.shields.io/badge/Gensim-dd08b6?&style=flat" height="22" />
 <img src="https://img.shields.io/badge/SpaCy-d40808?&style=flat&logo=spacy&logoColor=white" height="22" />
-<img src="https://img.shields.io/badge/Rake-8a0588?&style=flat" height="22" />
   
   
 <h2>Containerisation</h2>
