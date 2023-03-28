@@ -93,7 +93,7 @@ Kaggle's Challenges
   
  <h2>My GitHub Stats</h2>
 
-[![Volscente's GitHub stats](https://github-readme-stats.vercel.app/api?username=Volscente&show_icons=true&theme=dark&hide=contribs)](https://github.com/Volscente/github-readme-stats)
+[![Volscente GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Volscente&show_icons=true&theme=dark&hide=contribs)](https://github.com/Volscente/github-readme-stats)
   
  <h2>Contacts</h2>
   
